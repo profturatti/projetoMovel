@@ -59,6 +59,11 @@ nomeDoProjeto/
 ├── apresentacao
 │   ├── apresentacao.pdf
 │   └── apresentacao.pptx
+├── backend
+│   ├── src
+│   ├── .gitignore
+│   ├── readme.md
+│   └── ...demais arquivos
 ├── documentacao
 │   ├── 01_cartaDeApresentacao.pdf
 │   ├── 02_cartaDeAutorizacao.pdf
@@ -72,17 +77,12 @@ nomeDoProjeto/
 │   ├── package.json
 │   ├── readme.md
 │   └── ...demais arquivos
-├── backend
-│   ├── src
-│   ├── .gitignore
-│   ├── readme.md
-│   └── ...demais arquivos
 ├── video
 │   ├── apresentacao.gif
 │   ├── apresentacao.mkv
 │   ├── apresentacao.mp4
 │   └── video.txt  O conteúdo deste arquivo deve ser o local público onde está o vídeo caso tenha mais de 10MB
-└── readme.md  Este arquivo é uma visão geral do projeto e não precisa ser igual a este arquivo
+└── readme.md  Este arquivo é uma visão geral do projeto e não precisa ser idêntico a este arquivo
 ```
 
 ## 📦 Instale os requisitos do projeto:
